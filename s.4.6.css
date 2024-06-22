@@ -1,0 +1,18 @@
+section{
+    color: yellow;
+}nav {
+    color: blue;
+    padding: 20px 0;
+  }
+  article {
+    color: red;
+    padding: 20px 0;
+  }
+  aside {
+    background-color: burlywood;
+    padding: 20px 0;
+  }
+  div {
+    width: 900px;
+    padding-left: 20px;
+  }

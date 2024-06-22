@@ -1,0 +1,23 @@
+div{ 
+    text-align: center;
+    background-color: black;
+    color: white;
+    background-image:url("https://tmssl.akamaized.net/images/foto/galerie/cristiano-ronaldo-al-nassr-2023-1692731063-114594.jpg?lm=1692731118") ;}
+    
+
+    
+h1{margin: 100px;}
+p{margin-top:0 ;
+margin: bottom 10px;
+ ;font-size: large;}
+button{
+    color: white;
+    width:500px ;
+    height: 50px;
+    background-color: rgb(227, 81,59);
+    margin: 50px;
+    font-size: large;s
+    line-height: 50px;
+    
+
+}

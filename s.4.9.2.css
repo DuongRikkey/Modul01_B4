@@ -1,0 +1,40 @@
+
+*{ 
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    margin: 0;
+
+}
+body{ padding: 2% 1% 2% 1%;
+    background-color: aliceblue;
+}
+cc{justify-content: center; 
+align-items: center;}
+table{
+    width: 60%;
+    border-spacing: 45px;
+} 
+button{
+    color: white;
+    background-color: cornflowerblue;
+    height: 30px;
+    width: 45%;
+}
+main{
+    background-color: beige;
+}
+td{
+    background-color: white;}
+img{
+   width: 97%;
+   padding: 2%;
+}
+footer{text-align: center;
+background-color: black;color: white;
+height: 85px;padding-top: 30px ; align-items: center;
+
+justify-content: center; }
+.cc {
+    text-transform: uppercase;
+}
+

@@ -1,0 +1,64 @@
+*{
+    font-family: Arial, Helvetica, sans-serif ;
+    margin: 0;
+    padding: 0;
+}
+.reward{
+    font-weight: lighter; color: (206,207,218);
+
+}
+.hh11{
+    margin-top: 30px;margin-bottom: 20px;
+}
+.sum{
+    margin-right: 30px;
+}
+h1 { margin-top: 40px;margin-bottom: 30px;}
+.creat{
+    width: 80%;height: 350px;background-color:white; margin-bottom: 10px;
+}
+hr{width: 80%;}
+.tách{
+    margin-bottom: 10px;
+}
+
+.creat { margin-top: 30px;
+    
+}
+.bang{
+    /* margin-top: 20px; */
+    /* padding:60px ; */
+    margin: auto; padding-top: 20px
+     ;
+   
+}
+.khoai{
+    font-size:larger, 
+
+}
+.xuong{margin-bottom:20px ;}
+.colen{background-color:rgb:blanchedalmond; height: 70px; width: 125px;
+border: 1px solid white ;margin: 10px 60px;}
+.chiu{
+    font-size: larger;
+}
+button {
+    margin: 10px 60px;
+}
+.Pato 
+{padding-left: 512px; padding-top:15px ;}
+.bt{
+    text-align: center; margin-top: 40px;
+}
+button{margin:50px 35px ;height: 80px; width: 130px;
+    border: 1px solid white ;}
+body{background-color: #ccc;margin-left: 100px;}    
+.ddd{
+    background-color: blue;border:1px solid blue ;
+}
+.dddd{
+    background-color: orangered;border: 1px solid orangered;
+}
+.ddddd{
+    background-color:green;border: 1px solid green;
+}
